@@ -1,7 +1,7 @@
 # <h1 align="center">🔑 Secreto 🔑</h1>
 
 <div align="center">
-A simple web app to generate <b>passwords, passphrases, and secrets</b>. <a href="https://gamingklex.github.io/secreto/">View it in action here!</a>
+A simple web app to generate <b>passwords, passphrases, and secrets</b>. <a href="https://gamingklex.github.io/Secreto/">View it in action here!</a>
 </div>
 <br/>
 <p align="center">

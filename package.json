@@ -9,7 +9,7 @@
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc"
   },
-  "homepage": "https://github.com/GamingKlex/Secreto",
+  "homepage": "https://gamingklex.github.io/Secreto/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GamingKlex/Secreto.git"
