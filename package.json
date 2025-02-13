@@ -1,0 +1,45 @@
+{
+  "name": "secreto",
+  "description": "A simple web app to generate passwords, passphrases, and secrets.",
+  "license": "GPL-3.0-only",
+  "type": "module",
+  "scripts": {
+    "build": "react-router build",
+    "dev": "react-router dev",
+    "start": "react-router-serve ./build/server/index.js",
+    "typecheck": "react-router typegen && tsc"
+  },
+  "homepage": "https://github.com/GamingKlex/Secreto",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamingKlex/Secreto.git"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.1.1",
+    "@fontsource/lato": "^5.1.1",
+    "@fontsource/poppins": "^5.1.1",
+    "@headlessui/react": "^2.2.0",
+    "@react-router/node": "^7.1.3",
+    "@react-router/serve": "^7.1.3",
+    "axios": "^1.7.9",
+    "isbot": "^5.1.17",
+    "lucide-react": "^0.474.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.54.2",
+    "react-hot-toast": "^2.5.1",
+    "react-router": "^7.1.3"
+  },
+  "devDependencies": {
+    "@react-router/dev": "^7.1.3",
+    "@types/node": "^20",
+    "@types/react": "^19.0.1",
+    "@types/react-dom": "^19.0.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16",
+    "typescript": "^5.7.2",
+    "vite": "^5.4.11",
+    "vite-tsconfig-paths": "^5.1.4"
+  }
+}
