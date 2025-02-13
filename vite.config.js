@@ -12,5 +12,5 @@ export default defineConfig({
   },
   plugins: [reactRouter(), tsconfigPaths()],
 
-  base: '/Secreto/', // Important for GitHub Pages
+  base: '/Secreto/',
 });

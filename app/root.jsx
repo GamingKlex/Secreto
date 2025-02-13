@@ -17,11 +17,10 @@ import '@fontsource/poppins/700.css';
 import '@fontsource/poppins/800.css';
 
 import { Toaster } from 'react-hot-toast';
-import stylesheet from './app.css?url';
+
+import './app.css';
 
 export const links = () => [
-  { rel: 'stylesheet', href: stylesheet },
-
   {
     rel: 'icon',
     type: 'image/x-icon',
