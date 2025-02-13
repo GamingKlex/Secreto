@@ -24,7 +24,7 @@ export const links = () => [
   {
     rel: 'icon',
     type: 'image/x-icon',
-    href: '/favicon.ico',
+    href: '/Secreto/favicon.ico',
   },
 ];
 
